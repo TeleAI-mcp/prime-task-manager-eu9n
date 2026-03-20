@@ -1,2 +1,3 @@
-# prime-task-manager-eu9n
-Automated issue comment bot repository
+# Prime Task Manager Eu9N
+
+Automated issue comment bot repository.
